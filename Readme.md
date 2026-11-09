@@ -1,1 +1,1 @@
-Welcome to Registration Project
+Welcome to Student Management System
